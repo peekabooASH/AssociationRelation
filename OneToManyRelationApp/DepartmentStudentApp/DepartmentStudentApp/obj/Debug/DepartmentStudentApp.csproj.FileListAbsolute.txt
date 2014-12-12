@@ -1,0 +1,15 @@
+E:\OOP0149-Evening\10-Oct-2014\DepartmentStudentApp\DepartmentStudentApp\bin\Debug\DepartmentStudentApp.exe.config
+E:\OOP0149-Evening\10-Oct-2014\DepartmentStudentApp\DepartmentStudentApp\bin\Debug\DepartmentStudentApp.exe
+E:\OOP0149-Evening\10-Oct-2014\DepartmentStudentApp\DepartmentStudentApp\bin\Debug\DepartmentStudentApp.pdb
+E:\OOP0149-Evening\10-Oct-2014\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.csprojResolveAssemblyReference.cache
+E:\OOP0149-Evening\10-Oct-2014\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.DepartmentUI.resources
+E:\OOP0149-Evening\10-Oct-2014\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.Properties.Resources.resources
+E:\OOP0149-Evening\10-Oct-2014\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.csproj.GenerateResource.Cache
+E:\OOP0149-Evening\10-Oct-2014\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.exe
+E:\OOP0149-Evening\10-Oct-2014\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis\10Oct To 31Oct 2014\10-Oct-2014\10-Oct-2014\DepartmentStudentApp\DepartmentStudentApp\bin\Debug\DepartmentStudentApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Basis\10Oct To 31Oct 2014\10-Oct-2014\10-Oct-2014\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\Basis\10Oct To 31Oct 2014\10-Oct-2014\10-Oct-2014\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.pdb
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\AssociationRelation\OneToManyRelationApp\DepartmentStudentApp\DepartmentStudentApp\bin\Debug\DepartmentStudentApp.exe.config
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\AssociationRelation\OneToManyRelationApp\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.exe
+F:\maloncho backup\Ddrive\C# COURSE\Basis All Project\Basis ALL project\AssociationRelation\OneToManyRelationApp\DepartmentStudentApp\DepartmentStudentApp\obj\Debug\DepartmentStudentApp.pdb
